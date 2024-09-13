@@ -1,0 +1,7 @@
+.profile_div img{
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    border-radius: 50%;
+    border:  1px solid rgb(99, 98, 98);
+}
